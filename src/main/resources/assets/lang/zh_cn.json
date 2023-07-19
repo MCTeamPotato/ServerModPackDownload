@@ -86,7 +86,7 @@
   "ModPackDownload.Swing.Main.createAndShowGUI.Text.GenTutorialFile.Tip" : "教程文件已生成，检查当前文件夹内的 config_intro.txt 文件",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About" : "关于",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.Github" : "Github：https://github.com/MCTeamPotato",
-  "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.LICENSE" : "开源协议：GPLv3",
+  "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.LICENSE" : "开源协议：Apache-2.0",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.Name" : "项目名称：服务端模组下载器",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.main.SetFile" : "选择配置",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.main.SetFile.Toml" : "Toml文件",

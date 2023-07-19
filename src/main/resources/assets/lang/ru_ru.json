@@ -86,7 +86,7 @@
   "ModPackDownload.Swing.Main.createAndShowGUI.Text.GenTutorialFile.Tip": "Файл-руководство успешно создан. Проверьте файл config_intro.txt в текущей папке.",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About": "О программе",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.Github": "Github: https://github.com/MCTeamPotato",
-  "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.LICENSE": "Лицензия: GPLv3",
+  "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.LICENSE": "Лицензия: Apache-2.0",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.Name": "Название проекта: Загрузчик серверных модов",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.main.SetFile": "Выбрать файл конфигурации",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.main.SetFile.Toml": "Выбрать файл Toml",

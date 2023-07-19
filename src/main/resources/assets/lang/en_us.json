@@ -86,7 +86,7 @@
   "ModPackDownload.Swing.Main.createAndShowGUI.Text.GenTutorialFile.Tip": "Tutorial file has been generated. Please check the config_intro.txt file in the current folder.",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About": "About",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.Github": "Github: https://github.com/MCTeamPotato",
-  "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.LICENSE": "License: GPLv3",
+  "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.LICENSE": "License: Apache-2.0",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.About.Name": "Project Name: Server Mod Downloader",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.main.SetFile": "Select Config File",
   "ModPackDownload.Swing.Main.createAndShowGUI.Paper.main.SetFile.Toml": "Select Toml File",
