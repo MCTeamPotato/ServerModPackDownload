@@ -18,22 +18,6 @@
 
 - Java 17或更高版本
 
-#### 获取项目
-
-通过git将项目克隆到本地：
-
-```bash
-git clone https://github.com/MCTeamPotato/ServerModPackDownload.git
-```
-
-#### 构建项目
-
-使用Maven构建项目：
-
-```bash
-cd ServerModPackDownload
-mvn package
-```
 
 #### 运行应用程序
 
