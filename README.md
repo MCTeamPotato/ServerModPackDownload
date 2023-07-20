@@ -51,7 +51,7 @@ java -DSMD=auto -jar ServerModPackDownload.jar
 5. 将修改推送到你的GitHub仓库：`git push origin feature/你的功能描述`。
 6. 提交Pull Request，等待我们的审查和合并。
 
-### REAMDME
+### README
 1. [简体中文](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README.md)
 2. [繁體中文](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README_CNTW.md)
 3. [English](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README_ENUS.md)
