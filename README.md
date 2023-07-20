@@ -51,6 +51,13 @@ java -DSMD=auto -jar ServerModPackDownload.jar
 5. 将修改推送到你的GitHub仓库：`git push origin feature/你的功能描述`。
 6. 提交Pull Request，等待我们的审查和合并。
 
+
+### 支持的语言
+1. 简体中文  
+2. 繁体中文  
+3. 俄语  
+4. 英语  
+
 ### 版权信息
 
 服务端模组下载器是根据[Apache License 2.0](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/LICENSE)许可证下发布的自由软件。
