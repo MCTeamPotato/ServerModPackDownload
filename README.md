@@ -52,9 +52,11 @@ java -DSMD=auto -jar ServerModPackDownload.jar
 6. 提交Pull Request，等待我们的审查和合并。
 
 ### REAMDME
-1. [中文](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README.md)  
-2. [English](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README_ENUS.md)
-3. 
+1. [简体中文](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README.md)
+2. [繁體中文](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README_CNTW.md)
+3. [English](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README_ENUS.md)
+4. [Russian](https://github.com/MCTeamPotato/ServerModPackDownload/blob/main/README_RU.md)
+
 ### 支持的语言
 1. 简体中文  
 2. 繁体中文  
